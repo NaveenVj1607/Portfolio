@@ -6,13 +6,13 @@ export const portfolioData = {
     name: "Naveen Kumar",
     title: "Senior Flutter Developer | Mobile Tech Lead",
     location: "Chennai, India",
-    email: "contact@naveen.dev",
+    email: "nvnkumar398@gmail.com",
     summary:
-      "Senior Flutter Developer and Mobile Tech Lead with 6+ years of experience delivering high-quality mobile applications across Android and iOS. Currently leading the Custom Apps Team at Liven, designing and maintaining a unified Flutter architecture powering 20+ white-label hospitality applications. Strong focus on clean architecture, performance optimization, scalable modular systems, reliable integrations, and mentoring teams to ship production-grade software.",
+      "Senior Flutter Developer and Mobile Tech Lead with 7+ years of experience delivering high-quality mobile applications across Android and iOS. Currently leading the Custom Apps Team at Liven, designing and maintaining a unified Flutter architecture powering 20+ white-label hospitality applications. Strong focus on clean architecture, performance optimization, scalable modular systems, reliable integrations, and mentoring teams to ship production-grade software.",
     socials: {
       github: "https://github.com/NaveenVj1607",
-      linkedin: "https://linkedin.com/in/naveenvj",
-      twitter: "https://twitter.com/naveenvj",
+      linkedin: "https://www.linkedin.com/in/naveen-vj-541112156/",
+      twitter: "https://x.com/its_ur_vj16",
     },
   },
 
