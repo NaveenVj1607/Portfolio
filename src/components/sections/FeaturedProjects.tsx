@@ -28,7 +28,7 @@ export function FeaturedProjects({ projects }: { projects: Project[] }) {
           <div>
             <h2 className="text-3xl font-bold mb-4">Featured Projects</h2>
             <p className="text-muted-foreground max-w-xl">
-              A selection of mobile applications I've built and led.
+              A selection of mobile applications I&apos;ve built and led.
             </p>
           </div>
           <Link

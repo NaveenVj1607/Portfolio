@@ -37,7 +37,7 @@ export function Contact() {
           >
             <h2 className="text-3xl font-bold mb-4">Get In Touch</h2>
             <p className="text-muted-foreground">
-              Interested in working together? Let's build your next mobile app.
+              Interested in working together? Let&apos;s build your next mobile app.
             </p>
           </motion.div>
 
@@ -90,7 +90,7 @@ export function Contact() {
                      <CheckCircle2 className="w-8 h-8 text-green-500" />
                    </div>
                    <h3 className="text-xl font-semibold mb-2">Message Sent!</h3>
-                   <p className="text-muted-foreground">Thanks for reaching out. I'll get back to you soon.</p>
+                   <p className="text-muted-foreground">Thanks for reaching out. I&apos;ll get back to you soon.</p>
                 </div>
               ) : (
                 <form onSubmit={handleSubmit} className="space-y-4">

@@ -41,7 +41,7 @@ export function ProjectList({ projects }: { projects: Project[] }) {
           <div>
             <h1 className="text-4xl font-bold mb-4">All Projects</h1>
             <p className="text-muted-foreground max-w-xl">
-              A collection of {projects.length} mobile applications I've developed.
+              A collection of {projects.length} mobile applications I&apos;ve developed.
             </p>
           </div>
           
