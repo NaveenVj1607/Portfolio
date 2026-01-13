@@ -11,7 +11,7 @@ export function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col items-center md:items-start gap-2">
             <Link href="/" className="text-xl font-bold tracking-tight">
-              Naveen<span className="text-primary">.dev</span>
+              Naveen<span className="text-primary"> Kumar</span>
             </Link>
             <p className="text-sm text-muted-foreground">
               Senior Flutter Developer building scalable mobile apps.

@@ -36,7 +36,7 @@ export function Navbar() {
     >
       <div className="container mx-auto px-4 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          Naveen<span className="text-primary">.dev</span>
+          Naveen<span className="text-primary"> Kumar</span>
         </Link>
 
         {/* Desktop Nav */}
