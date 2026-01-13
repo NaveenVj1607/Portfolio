@@ -46,7 +46,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-border/50 mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {currentYear} {portfolioData.personal.name}. All rights reserved.</p>
+          <p>&copy; {currentYear} {portfolioData.personal.name}. All rights reserved. <span className="text-xs opacity-50">v1.0.1</span></p>
         </div>
       </div>
     </footer>
