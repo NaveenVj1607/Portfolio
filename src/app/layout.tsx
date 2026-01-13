@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://naveen.dev",
+    url: "https://github.com/NaveenVj1607",
     title: "Naveen Kumar | Senior Flutter Developer",
     description: "Senior Flutter Developer building scalable iOS & Android apps.",
     siteName: "Naveen Kumar Portfolio",
